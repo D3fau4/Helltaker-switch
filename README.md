@@ -10,21 +10,21 @@ Helltaker is a short game about sharply dressed demon girls.
 ![Port](https://media.discordapp.net/attachments/519986961382113283/724541446715342858/AZMR.jpg)
 ![menu](https://media.discordapp.net/attachments/519986961382113283/724541442143420466/DZxX.jpg)
 ### Languages
-| Languages | Support | TAGS |
+| Languages | TAGS | Support |
 | -- | -- | -- |
-| English | OK | en-US |
-| Spanish | OK | ES |
-| Japanese | NO | JA |
-| French| NO | FR |
-| German | NO | DE |
-| Italian | NO | IT |
-| Dutch | NO | NL |
-| Canadian french | NO | fr-CA |
-| Portuguese | NO | PT |
-| Russian | NO | RU |
-| Traditional Chinese | NO | zh-Hant |
-| Simplified Chinese | NO | zh-Hans |
-| Korean | NO | KO |
+| English | en-US | OK |
+| Spanish | ES | OK |
+| Japanese | JA | NO |
+| French| FR | NO |
+| German | DE | NO |
+| Italian | IT | NO |
+| Dutch | NL | NO |
+| Canadian french | fr-CA | NO |
+| Portuguese | PT | NO |
+| Russian | RU | NO |
+| Traditional Chinese | zh-Hant | NO |
+| Simplified Chinese | zh-Hans | NO |
+| Korean | KO | NO |
 
 #### Contribute to support others languages
 If you want to contribute to support your language just fork this repo, add the translated jsons in to `"Assets\Resources\yourlanguagetag\local\"` 
