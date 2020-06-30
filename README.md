@@ -37,7 +37,7 @@ and do a pull request to my repo and I will add it to the game as soon as possib
 
 * #### Thanks to the Helltaker creator for giving me permission to publish the port: [Łukasz Piskorz (vanripperart)](https://twitter.com/vanripperart), [Patreon](https://www.patreon.com/vanripper), [Youtube](https://www.youtube.com/user/vanripper17)
 * #### me (D3fau4) for doing the port
-* #### Members of [Tradusquare](https://tradusquare.es/ficha.php?helltaker) for the Spanish translation:
+* #### Creators of the [Spanish translation](https://tradusquare.es/ficha.php?helltaker):
 	* **Translation:** Megaflan
 	* **Correction:** roli300
 	* **Graphics editing: (PC)** [All-Ice Team](https://alliceteam.altervista.org/)

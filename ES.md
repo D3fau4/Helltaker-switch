@@ -37,7 +37,7 @@ Y haz un pull request a mi repo y añadiré la traducción lo antes posible.
 
 * #### Gracias al creador de Helltaker por darme el permiso para publicar el port: [Łukasz Piskorz (vanripperart)](https://twitter.com/vanripperart), [Patreon](https://www.patreon.com/vanripper), [Youtube](https://www.youtube.com/user/vanripper17)
 * #### A mi (D3fau4) por hacer el port.
-* #### A los miembros de [Tradusquare](https://tradusquare.es/ficha.php?helltaker) por la traducción al español:
+* #### Creadores de la traducción al español:
 	* **Traducción:** Megaflan
 	* **Corrección:** roli300
 	* **Edición de gráficos: (PC)** [All-Ice Team](https://alliceteam.altervista.org/)
