@@ -21,7 +21,7 @@ Helltaker is a short game about sharply dressed demon girls.
 | Dutch | NL | NO |
 | Canadian french | fr-CA | NO |
 | Portuguese | PT | NO |
-| Russian | RU | NO |
+| Russian | RU | OK |
 | Traditional Chinese | zh-Hant | NO |
 | Simplified Chinese | zh-Hans | NO |
 | Korean | KO | NO |
@@ -38,3 +38,4 @@ and do a pull request to my repo and I will add it to the game as soon as possib
 * #### Thanks to the Helltaker creator for giving me permission to publish the port: [Łukasz Piskorz (vanripperart)](https://twitter.com/vanripperart), [Patreon](https://www.patreon.com/vanripper), [Youtube](https://www.youtube.com/user/vanripper17)
 * #### me (D3fau4) for doing the port
 * #### [Tradusquare](https://tradusquare.es/ficha.php?helltaker) for spanish translation
+* #### [Hropt](https://vgtimes.ru/games/helltaker/files/russianizers/22778-rusifikator-ot-hropt-.html) for russian translation (and mathew77 for give me the json).
