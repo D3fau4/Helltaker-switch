@@ -17,7 +17,7 @@ Helltaker is a short game about sharply dressed demon girls.
 | Japanese | JA | NO |
 | French| FR | NO |
 | German | DE | NO |
-| Italian | IT | NO |
+| Italian | IT | OK |
 | Dutch | NL | NO |
 | Canadian french | fr-CA | NO |
 | Portuguese | PT | NO |
@@ -43,3 +43,4 @@ and do a pull request to my repo and I will add it to the game as soon as possib
 	* **Graphics editing: (PC)** [All-Ice Team](https://alliceteam.altervista.org/)
 	* **Betatesting: (PC)** roli300, Megaflan
 * #### [Hropt](https://vgtimes.ru/games/helltaker/files/russianizers/22778-rusifikator-ot-hropt-.html) for russian translation (and mathew77 for give me the json).
+* #### [All-Ice Team](https://alliceteam.altervista.org/) for italian translation.
