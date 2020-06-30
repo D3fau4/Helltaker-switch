@@ -37,5 +37,9 @@ Y haz un pull request a mi repo y añadiré la traducción lo antes posible.
 
 * #### Gracias al creador de Helltaker por darme el permiso para publicar el port: [Łukasz Piskorz (vanripperart)](https://twitter.com/vanripperart), [Patreon](https://www.patreon.com/vanripper), [Youtube](https://www.youtube.com/user/vanripper17)
 * #### A mi (D3fau4) por hacer el port.
-* #### A [Tradusquare](https://tradusquare.es/ficha.php?helltaker) por la traducción al español.
+* #### A los miembros de [Tradusquare](https://tradusquare.es/ficha.php?helltaker) por la traducción al español:
+	* **Traducción:** Megaflan
+	* **Corrección:** roli300
+	* **Edición de gráficos: (PC)** [All-Ice Team](https://alliceteam.altervista.org/)
+	* **Betatesting: (PC)** roli300, Megaflan
 * #### [Hropt](https://vgtimes.ru/games/helltaker/files/russianizers/22778-rusifikator-ot-hropt-.html) por la traducción al ruso (y a mathew77 por darme los json).
