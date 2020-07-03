@@ -14,7 +14,7 @@ Helltaker is a short game about sharply dressed demon girls.
 | -- | -- | -- |
 | English | en-US | OK |
 | Spanish | ES | OK |
-| Japanese | JA | NO |
+| Japanese | JA | OK |
 | French| FR | NO |
 | German | DE | NO |
 | Italian | IT | OK |
@@ -23,8 +23,8 @@ Helltaker is a short game about sharply dressed demon girls.
 | Portuguese | PT | NO |
 | Russian | RU | OK |
 | Traditional Chinese | zh-Hant | NO |
-| Simplified Chinese | zh-Hans | NO |
-| Korean | KO | NO |
+| Simplified Chinese | zh-Hans | OK |
+| Korean | KO | OK |
 
 #### Contribute to support others languages
 If you want to contribute to support your language just fork this repo, add the translated jsons in to `"Assets\Resources\yourlanguagetag\local\"` 
@@ -44,3 +44,5 @@ and do a pull request to my repo and I will add it to the game as soon as possib
 	* **Betatesting: (PC)** roli300, Megaflan
 * #### [Hropt](https://vgtimes.ru/games/helltaker/files/russianizers/22778-rusifikator-ot-hropt-.html) for russian translation (and mathew77 for give me the json).
 * #### [All-Ice Team](https://alliceteam.altervista.org/) for italian translation.
+* #### [베칸님](https://tgd.kr/naseongkim/40914696) for Korean translation.
+* #### [kagerou01gata](https://steamcommunity.com/app/1289310/discussions/1/4666237625647679747/) for Japanese translation.

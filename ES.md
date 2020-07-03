@@ -44,3 +44,5 @@ Y haz un pull request a mi repo y añadiré la traducción lo antes posible.
 	* **Betatesting: (PC)** roli300, Megaflan
 * #### [Hropt](https://vgtimes.ru/games/helltaker/files/russianizers/22778-rusifikator-ot-hropt-.html) por la traducción al ruso (y a mathew77 por darme los json).
 * #### [All-Ice Team](https://alliceteam.altervista.org/) por la tradución al italiano.
+* #### [베칸님](https://tgd.kr/naseongkim/40914696) por la tradución al Coreano.
+* #### [kagerou01gata](https://steamcommunity.com/app/1289310/discussions/1/4666237625647679747/) por la tradución al Japonés.
