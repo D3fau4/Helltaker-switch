@@ -21,6 +21,7 @@ Helltaker is a short game about sharply dressed demon girls.
 | Dutch | NL | NO |
 | Canadian french | fr-CA | NO |
 | Portuguese | PT | NO |
+| Brazilian Portuguese | pt-BR | Ok |
 | Russian | RU | OK |
 | Traditional Chinese | zh-Hant | NO |
 | Simplified Chinese | zh-Hans | OK |
@@ -46,3 +47,4 @@ and do a pull request to my repo and I will add it to the game as soon as possib
 * #### [All-Ice Team](https://alliceteam.altervista.org/) for italian translation.
 * #### [베칸님](https://tgd.kr/naseongkim/40914696) for Korean translation.
 * #### [kagerou01gata](https://steamcommunity.com/app/1289310/discussions/1/4666237625647679747/) for Japanese translation.
+* #### [Nigh](https://steamcommunity.com/id/Niiigh) for [Brazilian Portuguese translation (pt-BR)](https://niigh.itch.io/helltaker-pt-br) and [MJr0019](https://github.com/MJr0019) for give me the json.
