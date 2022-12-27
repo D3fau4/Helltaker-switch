@@ -49,5 +49,5 @@ ve repoma bir request yapın, mümkün olan en kısa sürede oyuna ekleyeceğim.
 * #### Korece çeviri için [베칸님](https://tgd.kr/naseongkim/40914696)
 * #### Japonca çeviri için [kagerou01gata'ya](https://steamcommunity.com/app/1289310/discussions/1/4666237625647679747/)
 * #### Brezilya Portekizcesi çeviri (https://niigh.itch.io/helltaker-pt-br) için [Nigh'a](https://steamcommunity.com/id/Niiigh) ve bana json dosyalarını veren [MJr0019'a](https://github.com/MJr0019)
-* #### Türkçe çeviri için Dr.Strangelove https://steamcommunity.com/profiles/76561198161153302/ ve bana json dosyalarını veren rewold20'ye (https://www.youtube.com/channel/UC-GFibfkDsoi3slamrKLusA)
+* #### Türkçe çeviri için Dr.Strangelove'a https://steamcommunity.com/profiles/76561198161153302/ ve bana json dosyalarını veren rewold20'ye (https://www.youtube.com/channel/UC-GFibfkDsoi3slamrKLusA)
 * #### teşekkür ederim.
