@@ -48,3 +48,4 @@ and do a pull request to my repo and I will add it to the game as soon as possib
 * #### [베칸님](https://tgd.kr/naseongkim/40914696) for Korean translation.
 * #### [kagerou01gata](https://steamcommunity.com/app/1289310/discussions/1/4666237625647679747/) for Japanese translation.
 * #### [Nigh](https://steamcommunity.com/id/Niiigh) for [Brazilian Portuguese translation (pt-BR)](https://niigh.itch.io/helltaker-pt-br) and [MJr0019](https://github.com/MJr0019) for give me the json.
+* #### [Dr.Strangelove](https://steamcommunity.com/profiles/76561198161153302/) for Turkish translation and [rewold20](https://www.youtube.com/channel/UC-GFibfkDsoi3slamrKLusA) for for give me the json.
